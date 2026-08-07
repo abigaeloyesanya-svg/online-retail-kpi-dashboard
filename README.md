@@ -14,14 +14,14 @@ years of transaction-level data (Dec 2009 – Dec 2011, ~1 million rows).
 ## Key Findings
 
 1. **Revenue is highly seasonal.** Revenue nearly doubles every October–November
-   versus the summer baseline, in both years of data — a predictable pattern
+   versus the summer baseline, in both years of data a predictable pattern
    that inventory and staffing planning should be built around.
 2. **Retention drives the business.** 72% of customers are repeat buyers,
-   generating 96.7% of total revenue — this is a retention-driven business,
+   generating 96.7% of total revenue, this is a retention-driven business,
    not an acquisition-driven one.
 3. **Revenue is concentrated in one market.** 85.5% of revenue comes from the
    UK alone. Ireland, the Netherlands, and Germany are the strongest adjacent
-   markets, each still under 4% of revenue — real, largely untapped growth room.
+   markets, each still under 4% of revenue, real, largely untapped growth room.
 
 ## Dashboard Preview
 
