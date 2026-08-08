@@ -62,5 +62,5 @@ source above and run the notebook to regenerate the cleaned datasets.
 
 ## Author
 
-Oluwapelumi Oyesanya — Data Analytics
+Oluwapelumi Abigael Oyesanya — Data Analyst
 [LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · [Email](mailto:abigaeloyesanya@gmail.com)
